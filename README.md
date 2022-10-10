@@ -43,12 +43,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 
 ### 📊 Github Stats
-<a href='https://github.com/guilhermebraga6926/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/guilhermebraga6926/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/guilhermebraga6926/github-stats-transparent/output/generated/languages.svg)
-
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermebraga6926&show_icons=true&theme=radical)
 
 <br>
 
