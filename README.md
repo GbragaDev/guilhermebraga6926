@@ -1,115 +1,46 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+Hi 👋 My name is Guilherme Braga
+================================
 
-<h3 align="center">Hey there, I'm <a href="https://freshidea.com/jonah/">Guilherme Braga</a> - aka guilhermebraga_dev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+Backend Developer
+-----------------
 
-<p align="center">
-  <a href="https://github.com/guilhermebraga6926"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/guilhermebraga6926?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/guilhermebraga6926"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
+5th period Software Engineering student and developer with experience in Java, HTML, CSS, JavaScript, Linux, and Python. Passionate about technology and always seeking new challenges and learning opportunities. Currently developing skills in object-oriented programming and web development. Additionally, I enjoy contributing to open-source projects and learning from the GitHub community."
+
+* 🌍  I'm based in Brazil
+* ✉️  You can contact me at [dev\_braga@proton.me](mailto:dev_braga@proton.me)
+* 🧠  I'm learning Spring Framework
+* 🤝  I'm open to collaborating on Java and Web Projects
+
+<a href="https://www.github.com/guilhermebraga6926" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/guilhermebraga6926?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Skills
+
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-## 📖 Sobre Mim :
+### Socials
 
-* 💻 Sou um desenvolvedor de Software Backend.
-* 🎨 Sou músico autodidata,Relojoeiro amador e Gamer 
-* 🎓 Sou estudante de Engenharia de Software(graduado em 2025)
-* 🌐 Você pode me contatar pelo:
+<p align="left"> <a href="https://www.github.com/guilhermebraga6926" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/guilhermebraga.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/guilherme-braga-712ba61a9/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### Badges
 
+<b>My GitHub Stats</b>
 
+<a href="http://www.github.com/guilhermebraga6926"><img src="https://github-readme-stats.vercel.app/api?username=guilhermebraga6926&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="guilhermebraga6926's GitHub stats" /></a>
 
-## 🔥 Minhas Contribuições :
+<a href="http://www.github.com/guilhermebraga6926"><img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermebraga6926&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<p align="center">
-  <a href="https://github.com/guilhermebraga6926/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilhermebraga6926#version3"/>
-  </a>
-</p>
+<a href="http://www.github.com/guilhermebraga6926"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=guilhermebraga6926&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<h3 align="center">⬇ Scroll down to see <a href="https://github.com/guilhermebraga6926?tab=repositories">my repos</a>! ⭐ Stars are appreciated!</h3>
+<a href="https://github.com/guilhermebraga6926" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebraga6926&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-## 👨‍💻 Linguagens e Ferramentas que Utilizo:
+<b>Top Repositories</b>
 
-<table>
-    <tbody>
-        <tr>
-            <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
-            </td>
-            <td><a href="#"><img alt="HTML5" title="HTML5" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-            </td>
-            <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
-            </td>
-            <td><a href="#"><img alt="PHP" title="PHP" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a>
-            </td>
-            <td><a href="#"><img alt="Python" title="Python" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
-            </td>
-        </tr>
-        <tr>
-            <td><a href="#"><img alt="C++" title="C++" height="28px"
-                        src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a></td>
-            <td><a href="#"><img alt="C#" title="C#" height="28px"
-                        src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" /></a></td>
-            <td><a href="#"><img alt="Java" title="Java" height="28px"
-                        src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a></td>
-            <td><a href="#"><img alt="Kotlin" title="Kotlin" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /></a>
-            </td>
-            <td><a href="#"><img alt="Flutter" title="Flutter" height="28px"
-                        src="https://img.icons8.com/color/48/000000/flutter.png" /></a></td>
-        </tr>
-        <tr>
-            <td><a href="#"><img alt="NodeJS" title="NodeJS" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
-            </td>
-            <td><a href="#"><img alt="SQL" title="SQL" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
-            </td>
-            <td><a href="#"><img alt="Sheets" title="Sheets" height="28px"
-                        src="https://img.icons8.com/color/48/000000/google-sheets.png" /></a></td>
-            <td><a href="#"><img alt="Markdown" title="Markdown" height="28px"
-                        src="https://i.imgur.com/eO5z1xV.png" /></a></td>
-            <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
-                        src="https://i.imgur.com/DZgetVv.png" /></a>
-            </td>
-        </tr>
-        <tr>
-            <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
-            </td>
-            <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
-                        src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
-            <td><a href="#"><img alt="Android Studio" title="Android Studio" height="28px"
-                        src="https://i.imgur.com/6nJGNMN.png" /></a></td>
-            <td><a href="#"><img alt="Heroku" title="Heroku" height="28px"
-                        src="https://img.icons8.com/color/48/000000/heroku.png" /></a></td>
-            <td><a href="https://brave.com/eyl243"><img alt="Brave" title="Brave" height="28px"
-                        src="https://i.imgur.com/UfBWFbP.png" /></a></td>
-        </tr>
-    </tbody>
-</table>
-
-<!-- https://github.com/gautamkrishnar/blog-post-workflow -->
-
-
-## 📈 Github Stats :
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details>
-  <summary>📊 GitHub Profile Stats</summary>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=guilhermebraga6926&show_icons=true&count_private=true&hide=" /></a>
-</details>
-
-<details> 
-  <summary>💻 Most used languages</summary>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermebraga6926&langs_count=10&layout=compact#" /></a>
-  <br/>
-  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
-</details>
-
-
-
+<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
