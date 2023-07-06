@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guilherme Braga</h1>
-<h3 align="center">Estudante de Engenharia de Software apaixonado por resolver problemas com tecnologia. Minha vocação é o backend, mas estou sempre buscando expandir meus horizontes e aprender novas habilidades.</h3>
+<h3 align="center">Software engineering student passionate about solving problems with technology. I have a strong inclination towards backend development, but I'm always eager to broaden my horizons and acquire new skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gbragadev&label=Profile%20views&color=0e75b6&style=flat" alt="gbragadev" /> </p>
 
